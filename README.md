@@ -29,4 +29,4 @@ Examples
 connect to localhost:5200 and get table trades where time>=09:30 with
 header and rotated
 
-[[https://github.com/mfgc76/ookdbaddin/blob/master/img/ookdbpic1.png|alt=octocat]]
+[[https://github.com/mfgc76/ookdbaddin/img/ookdbpic1.png|alt=octocat]]
