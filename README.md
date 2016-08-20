@@ -12,8 +12,7 @@ The parameters are as follows:
 - ; or , separators are used depending on oocalc setting
 - username,password are optional,empty host is localhost
 - query and host are strings, header and flip numbers
-- header: 0:no header(if q result is table), 1: show header
-  if result is table
+- header: 0:no header, 1: show header, if result is table
 - flip: 0:no rotation, 1:rotate if reault is table or list
 - if result is list or table use ctrl+shift+enter, using just
   enter will only show result in current cell - also individual
