@@ -18,14 +18,15 @@ The parameters are as follows:
   enter will only show result in current cell - also individual
   cells cannot be modified
 - supported time fotmats: time, date, second return milliseconds
-  since epoch (UTC), better use formula (A2 / 86400000) + DATE(1970;1;1)
+  since epoch (UTC), better use formula (E2 / 86400000) + DATE(1970;1;1)
   to convert to oocalc format and format the cell accordingly,
   unsupported formats return empty cell
   
   
 Examples
 
-=q(":5000";"select from tab where time>09:30";0;1)
-connect to localhost:5000 and get table tab where time>09:30 without
+=q(":5200";"5#select from trades where time>=09:30";1;1)
+connect to localhost:5200 and get table trades where time>=09:30 with
 header and rotated
 
+![alt tag](https://raw.githubusercontent.com/mfgc76/ookdbaddin/ookdbpic1.png)
