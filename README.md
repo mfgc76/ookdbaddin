@@ -30,3 +30,7 @@ connect to localhost:5200 and get table trades where time>=09:30 with
 header and rotated
 
 ![<oocalc image>](https://github.com/mfgc76/ookdbaddin/blob/master/img/ookdbimg1.png)
+
+- To run install .oxt file from dist directory
+- To build import project into Netbeans
+- Built with Java7, tested with kdb+ 3.2, Openoffice 4.11
