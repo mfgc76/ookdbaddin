@@ -1,0 +1,25 @@
+/*
+ * XAddIn7.idl
+ *
+ * Created on 2016.08.16 - 04:52:25
+ *
+ */
+
+#ifndef _com_example_XAddIn7_
+#define _com_example_XAddIn7_
+
+#include <com/sun/star/lang/XLocalizable.idl>
+
+#include <com/sun/star/uno/XInterface.idl>
+
+
+module com { module example {
+    interface XAddIn7 {
+        /// used to set an add-in locale for formatting reasons for example
+        [optional] interface ::com::sun::star::lang::XLocalizable;
+
+        sequence< sequence< any > > q([in] string host, [in] string query, [in] long header, [in] long flip);
+    };
+}; };
+
+#endif

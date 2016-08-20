@@ -1,0 +1,17 @@
+/*
+ * AddIn7.idl
+ *
+ * Created on 2016.08.16 - 04:52:25
+ *
+ */
+
+#ifndef _com_example_AddIn7_
+#define _com_example_AddIn7_
+
+#include "XAddIn7.idl"
+
+module com { module example {
+    service AddIn7 : XAddIn7;
+}; };
+
+#endif

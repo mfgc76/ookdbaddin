@@ -1,0 +1,12 @@
+###### Progress log entry 2016-08-16 17:47:41 ######
+ERROR: (com.sun.star.lang.IllegalArgumentException) { { Message = "There is no such extension deployed: com.example.AddIn7", Context = (com.sun.star.uno.XInterface) @3f7dd2c }, ArgumentPosition = (short) -1 }
+ERROR: (com.sun.star.lang.IllegalArgumentException) { { Message = "There is no such extension deployed: com.example.AddIn7", Context = (com.sun.star.uno.XInterface) @3f7dd2c }, ArgumentPosition = (short) -1 }
+Copying: AddIn7.oxt
+###### Progress log entry 2016-08-16 18:04:59 ######
+Copying: AddIn7.oxt
+###### Progress log entry 2016-08-16 18:09:12 ######
+Copying: AddIn7.oxt
+###### Progress log entry 2016-08-16 18:13:55 ######
+Copying: AddIn7.oxt
+###### Progress log entry 2016-08-16 18:15:21 ######
+Copying: AddIn7.oxt
