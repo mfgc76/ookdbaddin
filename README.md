@@ -7,7 +7,7 @@ or nothing at all.
 
 The parameters are as follows:
 
-q("hostname:port:username:password";query;header;flip)   
+=q("hostname:port:username:password";query;header;flip)   
 
 - ; or , separators are used depending on oocalc setting
 - username,password are optional,empty host is localhost
@@ -26,7 +26,7 @@ q("hostname:port:username:password";query;header;flip)
   
 Examples
 
-q(":5000";"select from tab where time>09:30";0;1)
+=q(":5000";"select from tab where time>09:30";0;1)
 connect to localhost:5000 and get table tab where time>09:30 without
 header and rotated
 
