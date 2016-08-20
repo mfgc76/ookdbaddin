@@ -2,7 +2,7 @@
 openoffice calc addin to connect to kdb+
 
 This addin adds a formula Q() to openoffice calc
-to send command to q. It may return an atom/list/table
+to send a command to q. It may return an atom/list/table
 or nothing at all.
 
 The parameters are as follows:
