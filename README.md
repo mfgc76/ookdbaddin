@@ -29,7 +29,7 @@ Examples
 connect to localhost:5200 and get table trades where time>=09:30 with
 header and rotated
 
-![<oocalc image>](https://github.com/mfgc76/ookdbaddin/blob/master/img/ookdbimg1.png)
+![<oocalc image>](https://github.com/mfitsilis/ookdbaddin/blob/master/img/ookdbimg1.png)
 
 - To run install .oxt file from dist directory
 - To build import project into Netbeans, install the openoffice [plug-in](https://wiki.openoffice.org/wiki/OpenOffice_NetBeans_Integration#NetBeans_8.x_and_Apache_OpenOffice_4.1.x) first
